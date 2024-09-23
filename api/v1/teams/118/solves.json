@@ -1,0 +1,1 @@
+{"success": true, "data": [{"challenge": {"category": "Welcome", "id": 66, "value": 195, "name": "Welcome to Fall CTF"}, "user": {"id": 177, "name": "Dave4243"}, "date": "2024-09-22T17:19:45.618844+00:00", "team": {"id": 118, "name": "Gort"}, "type": "correct", "id": 759, "challenge_id": 66}], "meta": {"count": 1}}
